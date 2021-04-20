@@ -25,7 +25,7 @@ mccabe==0.6.1
 more-itertools==4.3.0
 parsimonious==0.8.1
 pluggy==0.8.0
-py==1.7.0
+py==1.10.0
 py-ecc==1.4.3
 py-evm==0.2.0a32
 pycodestyle==2.4.0
